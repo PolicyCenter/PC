@@ -1,3 +1,12 @@
-2020-01-24 17:21:03 INFO  LogFileControl:45 -  Default suite Suite Started 
-2020-01-24 17:21:10 INFO  LogFileControl:45 -  test method........  com.automation.PolicyCenter.Page.DataSetUp  ............  addHQUser  ............  org.openqa.selenium.support.events.EventFiringWebDriver@5c2375a9 
-2020-01-24 17:21:12 INFO  LogFileControl:45 -  Default suite Suite Ended 
+2020-01-24 23:11:14 INFO  LogFileControl:45 -  Suite Suite Started 
+2020-01-24 23:11:24 INFO  LogFileControl:45 -  test method........  com.automation.PolicyCenter.Page.DataSetUp  ............  addHQUser  ............  org.openqa.selenium.support.events.EventFiringWebDriver@788ae803 
+2020-01-24 23:11:25 INFO  LogFileControl:45 -  Suite Suite Ended 
+2020-01-24 23:21:28 INFO  LogFileControl:45 -  Default suite Suite Started 
+2020-01-24 23:21:34 INFO  LogFileControl:45 -  test method........  com.automation.PolicyCenter.Page.DataSetUp  ............  addHQUser  ............  org.openqa.selenium.support.events.EventFiringWebDriver@5c2375a9 
+2020-01-24 23:21:36 INFO  LogFileControl:45 -  Default suite Suite Ended 
+2020-01-24 23:23:30 INFO  LogFileControl:45 -  Suite Suite Started 
+2020-01-24 23:23:37 INFO  LogFileControl:45 -  test method........  com.automation.PolicyCenter.Page.DataSetUp  ............  addHQUser  ............  org.openqa.selenium.support.events.EventFiringWebDriver@5c2375a9 
+2020-01-24 23:23:40 INFO  LogFileControl:45 -  Suite Suite Ended 
+2020-01-24 23:24:10 INFO  LogFileControl:45 -  Suite Suite Started 
+2020-01-24 23:24:18 INFO  LogFileControl:45 -  test method........  com.automation.PolicyCenter.Page.DataSetUp  ............  addHQUser  ............  org.openqa.selenium.support.events.EventFiringWebDriver@143dd9db 
+2020-01-24 23:24:20 INFO  LogFileControl:45 -  Suite Suite Ended 
