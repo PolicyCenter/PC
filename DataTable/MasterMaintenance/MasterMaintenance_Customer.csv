@@ -1,0 +1,8 @@
+Test Case Id,Address 1,Address 2,City,State,Address 5,Address 6,Postal Code,Contact Person,Telephone No,Type,Credit Limit,Outlet Program Code,Outlet Program Description
+addCustomer_verify_ErrorMessages,plot no 140,Lane 2,Bangalore,Karnataka,Aswath Nagar,Road 2,560037,,,,,,
+addCustomer_verify_AlertMessages,plot no 141,Lane 3,Bangalore,Karnataka,Aswath Nagar,Road 3,560037,,,,,,
+addCustomer_validate_CashTypeCustomer,plot no 143,Lane 5,Bangalore,Karnataka,Aswath Nagar,Road 5,560037,Satya,8123864029,Cash,,,
+addCustomer_validate_CreditTypeCustomer,plot no 144,Lane 6,Bangalore,Karnataka,Aswath Nagar,Road 6,560037,Avinash,7209605162,Credit,4000,,
+addCustomer_verify_ResetFunctionality,plot no 145,Lane 7,Bangalore,Karnataka,Aswath Nagar,Road 7,560037,Kiran,9908475212,Cash,,,
+addCustomer_verify_CancelFunctionality,plot no 146,Lane 8,Bangalore,Karnataka,Aswath Nagar,Road 8,560037,Rohith,8123864028,Cash,,,
+customerDetails_ValidateSearchOutletProgram,,,,,,,,,,,,101,Test Outlet

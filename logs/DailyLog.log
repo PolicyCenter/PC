@@ -1,0 +1,3 @@
+2020-01-24 17:21:03 INFO  LogFileControl:45 -  Default suite Suite Started 
+2020-01-24 17:21:10 INFO  LogFileControl:45 -  test method........  com.automation.PolicyCenter.Page.DataSetUp  ............  addHQUser  ............  org.openqa.selenium.support.events.EventFiringWebDriver@5c2375a9 
+2020-01-24 17:21:12 INFO  LogFileControl:45 -  Default suite Suite Ended 

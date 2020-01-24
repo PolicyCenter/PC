@@ -1,0 +1,5 @@
+TestCaseID,CS Quantity,BTL Quantity,MRP,Cost Price
+addStockReceipt,1000000,5000000,5,2
+addStockReceipt,1000000,5000000,8,7
+addStockReceipt,1000000,5000000,10,9
+addStockReceipt,1000000,5000000,15,12

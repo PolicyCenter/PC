@@ -1,0 +1,289 @@
+TestCseID,Type,Promotion Type,Scheme Options,Discount Percentage Method,Buy Type,Apply On
+PROMOINV001A,Promo & Deal,Discount by Percentage,For Every,,Quantity,Per Tier
+PROMOINV002A,Promo & Deal,Discount by Value,For Every,,Quantity,Per Tier
+PROMOINV003A,Promo & Deal,Discount by Value,For Every,,Quantity,Per UOM
+PROMOINV004A,Promo & Deal,Discount by Value,For Every,,Quantity,Per Product
+PROMOINV007A,Promo & Deal,Discount by Percentage,For Every,,Amount,Per Tier
+PROMOINV008A,Promo & Deal,Discount by Value,For Every,,Amount,Per Tier
+PROMOINV009A,Promo & Deal,Discount by Value,For Every,,Amount,Per UOM
+PROMOINV010A,Promo & Deal,Discount by Value,For Every,,Amount,Per Product
+PROMOINV013A,Promo & Deal,Discount by Percentage,Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV014A,Promo & Deal,Discount by Value,Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV015A,Promo & Deal,Discount by Value,Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV018A,Promo & Deal,Discount by Percentage,Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV019A,Promo & Deal,Discount by Value,Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV020A,Promo & Deal,Discount by Value,Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV023A,Promo & Deal,Discount by Percentage,Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV024A,Promo & Deal,Discount by Percentage,Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV029A,Promo & Deal,Discount by Percentage,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV033A,Promo & Deal,Discount by Percentage,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV030A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV031A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV034A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV035A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV037A,Promo & Deal,Discount by Percentage,Quantity Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV038A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV039A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV040A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV042A,Promo & Deal,Discount by Percentage,Quantity Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV043A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV044A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV045A,Promo & Deal,Discount by Value,Quantity Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV047A,Promo & Deal,Discount by Percentage,Combi Scheme,,Amount,Per Tier
+PROMOINV048A,Promo & Deal,Discount by Value,Combi Scheme,,Amount,Per Tier
+PROMOINV049A,Promo & Deal,Discount by Value,Combi Scheme,,Amount,Per UOM
+PROMOINV050A,Promo & Deal,Discount by Value,Combi Scheme,,Amount,Per Product
+PROMOINV053A,Promo & Deal,Discount by Percentage,Combi Scheme,,Quantity,Per Tier
+PROMOINV054A,Promo & Deal,Discount by Value,Combi Scheme,,Quantity,Per Tier
+PROMOINV055A,Promo & Deal,Discount by Value,Combi Scheme,,Quantity,Per UOM
+PROMOINV056A,Promo & Deal,Discount by Value,Combi Scheme,,Quantity,Per Product
+PROMOINV059A,Promo & Deal,Discount by Percentage,Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV060A,Promo & Deal,Discount by Value,Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV061A,Promo & Deal,Discount by Value,Scheme by Range;For Every,,Quantity,Per UOM
+PROMOINV062A,Promo & Deal,Discount by Value,Scheme by Range;For Every,,Quantity,Per Product
+PROMOINV065A,Promo & Deal,Discount by Percentage,Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV066A,Promo & Deal,Discount by Value,Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV067A,Promo & Deal,Discount by Value,Scheme by Range;For Every,,Amount,Per UOM
+PROMOINV068A,Promo & Deal,Discount by Value,Scheme by Range;For Every,,Amount,Per Product
+PROMOINV071A,Promo & Deal,Discount by Percentage,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV072A,Promo & Deal,Discount by Value,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV073A,Promo & Deal,Discount by Value,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV076A,Promo & Deal,Discount by Percentage,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV077A,Promo & Deal,Discount by Value,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV078A,Promo & Deal,Discount by Value,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV081A,Promo & Deal,Discount by Percentage,Scheme by Range;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV082A,Promo & Deal,Discount by Percentage,Scheme by Range;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV083A,Promo & Deal,Discount by Percentage,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV084A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV085A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV087A,Promo & Deal,Discount by Percentage,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV088A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV089A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV091A,Promo & Deal,Discount by Percentage,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV092A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV093A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV094A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV096A,Promo & Deal,Discount by Percentage,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV097A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV098A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV099A,Promo & Deal,Discount by Value,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV101A,Promo & Deal,Discount by Percentage,Scheme by TDR;For Every,,Quantity,Per Tier
+PROMOINV102A,Promo & Deal,Discount by Value,Scheme by TDR;For Every,,Quantity,Per Tier
+PROMOINV103A,Promo & Deal,Discount by Value,Scheme by TDR;For Every,,Quantity,Per UOM
+PROMOINV104A,Promo & Deal,Discount by Value,Scheme by TDR;For Every,,Quantity,Per Product
+PROMOINV107A,Promo & Deal,Discount by Percentage,Scheme by TDR;For Every,,Amount,Per Tier
+PROMOINV108A,Promo & Deal,Discount by Value,Scheme by TDR;For Every,,Amount,Per Tier
+PROMOINV109A,Promo & Deal,Discount by Value,Scheme by TDR;For Every,,Amount,Per UOM
+PROMOINV110A,Promo & Deal,Discount by Value,Scheme by TDR;For Every,,Amount,Per Product
+PROMOINV113A,Promo & Deal,Discount by Percentage,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV114A,Promo & Deal,Discount by Value,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV115A,Promo & Deal,Discount by Value,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV118A,Promo & Deal,Discount by Percentage,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV119A,Promo & Deal,Discount by Value,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV120A,Promo & Deal,Discount by Value,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV123A,Promo & Deal,Discount by Percentage,Scheme by TDR;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV124A,Promo & Deal,Discount by Percentage,Scheme by TDR;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV125A,Promo & Deal,Discount by Percentage,Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV126A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV127A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV128A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV130A,Promo & Deal,Discount by Percentage,Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV131A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV132A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV133A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV135A,Promo & Deal,Discount by Percentage,Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV136A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV137A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV139A,Promo & Deal,Discount by Percentage,Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV140A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV141A,Promo & Deal,Discount by Value,Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV143A,Promo & Deal,Discount by Percentage,Scheme by TDR;Combi Scheme,,Amount,Per Tier
+PROMOINV144A,Promo & Deal,Discount by Value,Scheme by TDR;Combi Scheme,,Amount,Per Tier
+PROMOINV145A,Promo & Deal,Discount by Value,Scheme by TDR;Combi Scheme,,Amount,Per UOM
+PROMOINV146A,Promo & Deal,Discount by Value,Scheme by TDR;Combi Scheme,,Amount,Per Product
+PROMOINV149A,Promo & Deal,Discount by Percentage,Scheme by TDR;Combi Scheme,,Quantity,Per Tier
+PROMOINV150A,Promo & Deal,Discount by Value,Scheme by TDR;Combi Scheme,,Quantity,Per Tier
+PROMOINV151A,Promo & Deal,Discount by Value,Scheme by TDR;Combi Scheme,,Quantity,Per UOM
+PROMOINV152A,Promo & Deal,Discount by Value,Scheme by TDR;Combi Scheme,,Quantity,Per Product
+PROMOINV155A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV156A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV157A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;For Every,,Quantity,Per UOM
+PROMOINV158A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;For Every,,Quantity,Per Product
+PROMOINV161A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV162A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV163A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;For Every,,Amount,Per UOM
+PROMOINV164A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;For Every,,Amount,Per Product
+PROMOINV167A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV168A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV169A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV172A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV173A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV174A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV177A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV178A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV179A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV180A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV181A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV183A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV184A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV185A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV187A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV188A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV189A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV190A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV192A,Promo & Deal,Discount by Percentage,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV193A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV194A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV195A,Promo & Deal,Discount by Value,Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV197A,Promo & Deal,Discount by Percentage,Scheme by MRP;For Every,,Quantity,Per Tier
+PROMOINV198A,Promo & Deal,Discount by Value,Scheme by MRP;For Every,,Quantity,Per Tier
+PROMOINV199A,Promo & Deal,Discount by Value,Scheme by MRP;For Every,,Quantity,Per UOM
+PROMOINV200A,Promo & Deal,Discount by Value,Scheme by MRP;For Every,,Quantity,Per Product
+PROMOINV203A,Promo & Deal,Discount by Percentage,Scheme by MRP;For Every,,Amount,Per Tier
+PROMOINV204A,Promo & Deal,Discount by Value,Scheme by MRP;For Every,,Amount,Per Tier
+PROMOINV205A,Promo & Deal,Discount by Value,Scheme by MRP;For Every,,Amount,Per UOM
+PROMOINV206A,Promo & Deal,Discount by Value,Scheme by MRP;For Every,,Amount,Per Product
+PROMOINV209A,Promo & Deal,Discount by Percentage,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV210A,Promo & Deal,Discount by Value,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV211A,Promo & Deal,Discount by Value,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV214A,Promo & Deal,Discount by Percentage,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV215A,Promo & Deal,Discount by Value,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV216A,Promo & Deal,Discount by Value,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV219A,Promo & Deal,Discount by Percentage,Scheme by MRP;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV220A,Promo & Deal,Discount by Percentage,Scheme by MRP;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV225A,Promo & Deal,Discount by Percentage,Scheme by MRP;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV226A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV227A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV229A,Promo & Deal,Discount by Percentage,Scheme by MRP;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV230A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV231A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV233A,Promo & Deal,Discount by Percentage,Scheme by MRP;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV234A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV235A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV236A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV238A,Promo & Deal,Discount by Percentage,Scheme by MRP;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV239A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV240A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV241A,Promo & Deal,Discount by Value,Scheme by MRP;Quality Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV243A,Promo & Deal,Discount by Percentage,Scheme by MRP;Combi Scheme,,Amount,Per Tier
+PROMOINV244A,Promo & Deal,Discount by Value,Scheme by MRP;Combi Scheme,,Amount,Per Tier
+PROMOINV245A,Promo & Deal,Discount by Value,Scheme by MRP;Combi Scheme,,Amount,Per UOM
+PROMOINV246A,Promo & Deal,Discount by Value,Scheme by MRP;Combi Scheme,,Amount,Per Product
+PROMOINV249A,Promo & Deal,Discount by Percentage,Scheme by MRP;Combi Scheme,,Quantity,Per Tier
+PROMOINV250A,Promo & Deal,Discount by Value,Scheme by MRP;Combi Scheme,,Quantity,Per Tier
+PROMOINV251A,Promo & Deal,Discount by Value,Scheme by MRP;Combi Scheme,,Quantity,Per UOM
+PROMOINV252A,Promo & Deal,Discount by Value,Scheme by MRP;Combi Scheme,,Quantity,Per Product
+PROMOINV255A,Promo & Deal,Discount by Percentage,Scheme by MRP;Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV256A,Promo & Deal,Discount by Value,Scheme by MRP;Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV257A,Promo & Deal,Discount by Value,Scheme by MRP;Scheme by Range;For Every,,Quantity,Per UOM
+PROMOINV258A,Promo & Deal,Discount by Value,Scheme by MRP;Scheme by Range;For Every,,Quantity,Per Product
+PROMOINV261A,Promo & Deal,Discount by Percentage,Scheme by MRP;Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV262A,Promo & Deal,Discount by Value,Scheme by MRP;Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV263A,Promo & Deal,Discount by Value,Scheme by MRP;Scheme by Range;For Every,,Amount,Per UOM
+PROMOINV264A,Promo & Deal,Discount by Value,Scheme by MRP;Scheme by Range;For Every,,Amount,Per Product
+PROMOINV267A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV268A,,Discount by Value,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV269A,,Discount by Value,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV272A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV273A,,Discount by Value,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV274A,,Discount by Value,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV277A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV278A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV279A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV280A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV281A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV283A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV284A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV285A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV287A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV288A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV289A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV290A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV292A,,Discount by Percentage,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV293A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV294A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV295A,,Discount by Value,Scheme by MRP;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV297A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Per Tier
+PROMOINV298A,,Discount by Value,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Per Tier
+PROMOINV299A,,Discount by Value,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Per UOM
+PROMOINV300A,,Discount by Value,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Per Product
+PROMOINV303A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;For Every,,Amount,Per Tier
+PROMOINV304A,,Discount by Value,Scheme by MRP;Scheme by TDR;For Every,,Amount,Per Tier
+PROMOINV305A,,Discount by Value,Scheme by MRP;Scheme by TDR;For Every,,Amount,Per UOM
+PROMOINV306A,,Discount by Value,Scheme by MRP;Scheme by TDR;For Every,,Amount,Per Product
+PROMOINV309A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV310A,,Discount by Value,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV311A,,Discount by Value,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV314A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV315A,,Discount by Value,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV316A,,Discount by Value,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV319A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV320A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV321A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV322A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV323A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV324A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV326A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV327A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV328A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV329A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV331A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV332A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV333A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV335A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV336A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV337A,,Discount by Value,Scheme by MRP;Scheme by TDR;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV339A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Per Tier
+PROMOINV340A,,Discount by Value,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Per Tier
+PROMOINV341A,,Discount by Value,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Per UOM
+PROMOINV342A,,Discount by Value,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Per Product
+PROMOINV345A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Per Tier
+PROMOINV346A,,Discount by Value,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Per Tier
+PROMOINV347A,,Discount by Value,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Per UOM
+PROMOINV348A,,Discount by Value,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Per Product
+PROMOINV351A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV352A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Per Tier
+PROMOINV353A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Per UOM
+PROMOINV354A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Per Product
+PROMOINV357A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV358A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Per Tier
+PROMOINV359A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Per UOM
+PROMOINV360A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Per Product
+PROMOINV363A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV364A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per Tier
+PROMOINV365A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Per UOM
+PROMOINV368A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV369A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per Tier
+PROMOINV370A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Per UOM
+PROMOINV373A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Accumulative,Quantity,Per Tier
+PROMOINV374A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Accumulative,Amount,Per Tier
+PROMOINV375A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV376A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per Tier
+PROMOINV377A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Quantity,Per UOM
+PROMOINV379A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV380A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per Tier
+PROMOINV381A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;Pro-rata;For Every,,Amount,Per UOM
+PROMOINV383A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV384A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Tier
+PROMOINV385A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per UOM
+PROMOINV386A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Quantity,Per Product
+PROMOINV388A,,Discount by Percentage,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV389A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Tier
+PROMOINV390A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per UOM
+PROMOINV391A,,Discount by Value,Scheme by MRP;Scheme by TDR;Scheme by Range;Quality Purchase Scheme;For Every,,Amount,Per Product
+PROMOINV001ANF,,Discount by Percentage,For Every,,Quantity,Per Tier
+PROMOINV002ANF,,Discount by Value,For Every,,Quantity,Per Tier
+PROMOINV003ANF,,Discount by Value,For Every,,Quantity,Per UOM
+PROMOINV004ANF,,Discount by Value,For Every,,Quantity,Per Product
+PROMOINV007ANF,,Discount by Percentage,For Every,,Amount,Per Tier
+PROMOINV008ANF,,Discount by Value,For Every,,Amount,Per Tier
+PROMOINV009ANF,,Discount by Value,For Every,,Amount,Per UOM
+PROMOINV010ANF,,Discount by Value,For Every,,Amount,Per Product
+PROMOINV197ANF,,Discount by Percentage,Scheme by MRP,,Quantity,Per Tier
+PROMOINV198ANF,,Discount by Value,Scheme by MRP,,Quantity,Per Tier
+PROMOINV199ANF,,Discount by Value,Scheme by MRP,,Quantity,Per UOM
+PROMOINV200ANF,,Discount by Value,Scheme by MRP,,Quantity,Per Product
+PROMOINV203ANF,,Discount by Percentage,Scheme by MRP,,Amount,Per Tier
+PROMOINV204ANF,,Discount by Value,Scheme by MRP,,Amount,Per Tier
+PROMOINV205ANF,,Discount by Value,Scheme by MRP,,Amount,Per UOM
+PROMOINV206ANF,,Discount by Value,Scheme by MRP,,Amount,Per Product

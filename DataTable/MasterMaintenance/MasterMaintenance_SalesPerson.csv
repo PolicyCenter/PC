@@ -1,0 +1,9 @@
+Test Case Id,Address 1,Address 2,City,State,Address 5,Address 6,Postal Code,Contact Number,Mobile Number
+distLgn_Addsalesperson_Verify_AddSalesPerson_ErrorMessages,plot no 140,Lane 2,Bangalore,Karnataka,Aswath Nagar,Road 2,560037,444555,8123864029
+distLgn_Addsalesperson_Validate_Add,plot no 141,Lane 3,Bangalore,Karnataka,Aswath Nagar,Road 3,560037,444555,8123864029
+distLgn_Addsalesperson_Validate_Reset,plot no 142,Lane 4,Bangalore,Karnataka,Aswath Nagar,Road 4,560037,444555,8123864029
+distLgn_Addsalesperson_Validate_Cancel,plot no 143,Lane 5,Bangalore,Karnataka,Aswath Nagar,Road 5,560037,444555,8123864029
+distLgn_Addsalesperson_Validate_DuplicateSalesPerson,plot no 144,Lane 6,Bangalore,Karnataka,Aswath Nagar,Road 6,560037,444555,8123864029
+distLgn_Addsalesperson_Validate_InputFieldValues,plot no 145,Lane 7,Bangalore,Karnataka,Aswath Nagar,Road 7,560037,444555,8123864029
+distLgn_Salespersondetails_Validate_EditSalesPerson,plot no 146,Lane 8,Bangalore,Karnataka,Aswath Nagar,Road 8,560037,444555,8123864030
+distLgn_Salespersondetails_Validate_ResetSalesPerson,,,Bangalore,,,,,,8123864029

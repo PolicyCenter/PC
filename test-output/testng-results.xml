@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9568" started-at="2020-01-24T11:51:03Z" finished-at="2020-01-24T11:51:12Z">
+    <groups>
+      <group name="DMSSETUP">
+        <method signature="DataSetUp.addHQUser()[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="addHQUser" class="com.automation.PolicyCenter.Page.DataSetUp"/>
+      </group> <!-- DMSSETUP -->
+    </groups>
+    <test name="Default test" duration-ms="9568" started-at="2020-01-24T11:51:03Z" finished-at="2020-01-24T11:51:12Z">
+      <class name="com.automation.PolicyCenter.Page.DataSetUp">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="extentSetup" is-config="true" duration-ms="422" started-at="2020-01-24T17:21:02Z" finished-at="2020-01-24T17:21:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2974f221]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="testClassStart(org.testng.ITestContext)[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="testClassStart" is-config="true" duration-ms="7799" started-at="2020-01-24T17:21:03Z" finished-at="2020-01-24T17:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2974f221]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClassStart -->
+        <test-method status="PASS" signature="testMethodStart(java.lang.reflect.Method)[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="testMethodStart" is-config="true" duration-ms="14" started-at="2020-01-24T17:21:10Z" finished-at="2020-01-24T17:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.PolicyCenter.Page.DataSetUp.addHQUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodStart -->
+        <test-method status="PASS" signature="addHQUser()[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="addHQUser" duration-ms="20" started-at="2020-01-24T17:21:10Z" finished-at="2020-01-24T17:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addHQUser -->
+        <test-method status="PASS" signature="testMethodEnd(org.testng.ITestResult)[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="testMethodEnd" is-config="true" duration-ms="448" started-at="2020-01-24T17:21:10Z" finished-at="2020-01-24T17:21:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addHQUser status=SUCCESS method=DataSetUp.addHQUser()[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodEnd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="tearDown" is-config="true" duration-ms="1258" started-at="2020-01-24T17:21:11Z" finished-at="2020-01-24T17:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.automation.PolicyCenter.Page.DataSetUp@57fffcd7]" name="afterSuite" is-config="true" duration-ms="89" started-at="2020-01-24T17:21:12Z" finished-at="2020-01-24T17:21:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2974f221]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.automation.PolicyCenter.Page.DataSetUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

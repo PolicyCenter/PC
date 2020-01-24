@@ -1,0 +1,4 @@
+Test Case Id,Picking Area,Product
+distLgn_AddBinLocation_Validate_AddBin,No,Multiple
+distLgn_AddBinLocation_Validate_DuplicateBin,No,Multiple
+distLgn_BinLocationDetails_Validate_EditBinLocation,No,Multiple

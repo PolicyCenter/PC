@@ -1,0 +1,16 @@
+TestCaseID,Taxation Geo Tree,Company Name,Business Registration Number,Handheld Application Name,Currency Setting,Payment Adjustment,Order Status,Stock Take History,Past Route Plan,Future Route Plan,Missed Call,Missed Call Remainder,Average visit sales,No distribution,Purge Batch code,MSL compliance,Red,Amber,Threshold,Allowable Billing Count,Working Day
+companyInfo_VerifyCompanyInfoUI,GT_CSDCA - GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA,,,,,,,,,,,,,,,,,,,,
+companyInfo_InitialDataSetup,GT_CSDCA - GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA,,,,,,,,,,,,,,,,,,,,
+companyInfo_SaveCompanyInfo,GT_CSDCA - GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA,,,,,,,,,,,,,,,,,,,,
+companyInfo_ValidateCompInfoInputFieldsValidData,,Newspage1,Newspage1,Newspage1,Newspage@1,1144,,,,,,,,,,,,,,,
+companyInfo_ValidateCompInfoInputFieldsInvalidData,,,,,,abcd@$,,,,,,,,,,,,,,,
+companyInfo_ValidateDataRetentionPeriodInputFieldsValidData,,,,,,,12345,12345,12345,12345,12345,12345,123456789,12345,12345,12345,,,,,
+companyInfo_ValidateDataRetentionPeriodInputFieldsInvalidData,,,,,,,abcd@$,abcd@$,abcd@$,abcd@$,abcd@$,abcd@$,abcd@$,abcd@$,abcd@$,abcd@$,,,,,
+companyInfo_ValidateRedInputFieldValidData,,,,,,,,,,,,,,,,,97,,,,
+companyInfo_ValidateRedInputFieldInvalidData,,,,,,,,,,,,,,,,,101,,,,
+companyInfo_ValidateAmberInputFieldValidData,,,,,,,,,,,,,,,,,,98,,,
+companyInfo_ValidateAmberInputFieldInvalidData,,,,,,,,,,,,,,,,,,86,,,
+companyInfo_ValidateThresholdInputFieldValidData,,,,,,,,,,,,,,,,,,,62,,
+companyInfo_ValidateThresholdInputFieldInvalidData,,,,,,,,,,,,,,,,,,,101,,
+companyInfo_ValidateAllowableBillingCountInputField,,,,,,,,,,,,,,,,,,,,abcd@,
+companyInfo_EditCompanyInfo,,,,,,,,,,,,,,,,,,,,6,Monday

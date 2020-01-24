@@ -1,0 +1,364 @@
+TestCseID,Type,Scheme Options,Discount Percentage Method,Buy Type,Promotion Type,Discount,Apply On,Level,Must,MRP
+PROMO005,Promo & Deal,For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO005,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO005,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO006,Promo & Deal,For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO006,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO006,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO011,Promo & Deal,For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO011,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO011,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO012,Promo & Deal,For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO012,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO012,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO016,Promo & Deal,Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO016,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO016,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO017,Promo & Deal,Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO017,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO017,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO021,Promo & Deal,Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO021,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO021,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO022,Promo & Deal,Pro-rata;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO022,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO022,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO025,Promo & Deal,FOC Recurring,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO025,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO025,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO026,Promo & Deal,FOC Recurring,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO026,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO026,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO027,Promo & Deal,FOC Recurring,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO027,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO027,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO028,Promo & Deal,FOC Recurring,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO028,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO028,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO032,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO032,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO032,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO036,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO036,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO036,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO041,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO041,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO041,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO046,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO046,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO046,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO051,Promo & Deal,Combi Scheme,,Amount,Free Product,AND,Per Tier,Prodcat 1,,
+PROMO051,,,,,Free Product,AND,Per Tier,Prodcat 1,,
+PROMO051,,,,,Free Product,AND,Per Tier,Prodcat 1,,
+PROMO052,Promo & Deal,Combi Scheme,,Amount,Free Product,OR,Per Tier,Prodcat 1,,
+PROMO052,,,,,Free Product,OR,Per Tier,Prodcat 1,,
+PROMO052,,,,,Free Product,OR,Per Tier,Prodcat 1,,
+PROMO057,Promo & Deal,Combi Scheme,,Quantity,Free Product,AND,Per Tier,Prodcat 1,,
+PROMO057,,,,,Free Product,AND,Per Tier,Prodcat 1,,
+PROMO057,,,,,Free Product,AND,Per Tier,Prodcat 1,,
+PROMO058,Promo & Deal,Combi Scheme,,Quantity,Free Product,OR,Per Tier,Prodcat 1,,
+PROMO058,,,,,Free Product,OR,Per Tier,Prodcat 1,,
+PROMO058,,,,,Free Product,OR,Per Tier,Prodcat 1,,
+PROMO063,Promo & Deal,Scheme by Range;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO063,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO063,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO064,Promo & Deal,Scheme by Range;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO064,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO064,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO069,Promo & Deal,Scheme by Range;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO069,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO069,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO070,Promo & Deal,Scheme by Range;For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO070,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO070,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO074,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO074,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO074,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO075,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO075,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO075,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO079,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO079,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO079,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO080,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO080,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO080,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO086,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO086,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO086,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO090,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO090,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO090,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO095,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO095,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO095,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO100,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO100,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO100,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO105,Promo & Deal,Scheme by TDR;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO105,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO105,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO106,Promo & Deal,Scheme by TDR;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO106,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO106,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO111,Promo & Deal,Scheme by Range;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO111,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO111,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO112,Promo & Deal,Scheme by Range;For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO112,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO112,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO116,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO116,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO116,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO117,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO117,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO117,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO121,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO121,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO121,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO122,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO122,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO122,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO129,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO129,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO129,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO134,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO134,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO134,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO138,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO138,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO138,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO142,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO142,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO142,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO147,Promo & Deal,Scheme by TDR;Combi Scheme,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO147,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO147,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO148,Promo & Deal,Scheme by TDR;Combi Scheme,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO148,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO148,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO153,Promo & Deal,Scheme by TDR;Combi Scheme,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO153,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO153,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO154,Promo & Deal,Scheme by TDR;Combi Scheme,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO154,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO154,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO159,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO159,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO159,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO160,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO160,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO160,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO165,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO165,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO165,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO166,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO166,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO166,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO170,Promo & Deal,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO170,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO170,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO171,Promo & Deal,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO171,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO171,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO175,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO175,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO175,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO176,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO176,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO176,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO182,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO182,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO182,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO186,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO186,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO186,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO191,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO191,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO191,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO196,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO196,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO196,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO201,Promo & Deal,Scheme by MRP;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO201,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO201,,,,,Free Product,AND,Per Tier,Prodcat 1,No,
+PROMO202,Promo & Deal,Scheme by MRP;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO202,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO202,,,,,Free Product,OR,Per Tier,Prodcat 1,No,
+PROMO207,Promo & Deal,Scheme by MRP;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO207,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO207,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO208,Promo & Deal,Scheme by MRP;For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO208,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO208,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO212,Promo & Deal,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO212,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO212,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO213,Promo & Deal,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO213,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO213,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO217,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO217,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO217,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO218,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO218,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO218,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO221,Promo & Deal,Scheme by MRP;FOC Recurring,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO221,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO221,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO222,Promo & Deal,Scheme by MRP;FOC Recurring,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO222,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO222,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO223,Promo & Deal,Scheme by MRP;FOC Recurring,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO223,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO223,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO224,Promo & Deal,Scheme by MRP;FOC Recurring,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO224,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO224,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO228,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO228,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO228,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO232,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO232,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO232,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO237,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO237,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO237,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO242,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO242,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO242,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO247,Promo & Deal,Scheme by MRP;Combi Scheme,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO247,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO247,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO248,Promo & Deal,Scheme by MRP;Combi Scheme,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO248,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO248,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO253,Promo & Deal,Scheme by MRP;Combi Scheme,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO253,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO253,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO254,Promo & Deal,Scheme by MRP;Combi Scheme,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO254,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO254,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO259,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO259,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO259,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO260,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO260,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO260,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO265,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO265,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO265,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO266,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO266,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO266,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO270,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO270,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO270,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO271,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO271,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO271,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO275,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO275,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO275,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO276,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO276,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO276,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO282,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO282,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO282,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO286,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO286,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO286,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO291,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO291,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO291,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO296,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO296,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO296,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO301,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO301,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO301,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO302,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO302,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO302,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO307,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO307,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO307,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO308,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO308,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO308,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO312,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO312,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO312,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO313,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO313,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO313,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO317,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO317,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO317,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO318,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO318,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO318,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO325,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO325,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO325,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO330,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO330,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO330,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO334,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO334,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO334,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO338,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO338,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO338,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO343,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO343,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO343,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO344,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO344,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO344,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO349,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO349,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO349,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO350,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO350,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO350,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO355,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO355,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO355,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO356,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO356,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO356,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO361,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO361,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO361,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO362,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO362,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO362,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO366,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO366,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO366,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO367,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO367,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO367,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO371,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO371,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO371,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO372,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO372,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO372,,,,,Free Product,OR,Per Tier,Prodcat 1,No,1
+PROMO378,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO378,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO378,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO382,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO382,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO382,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO387,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO387,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO387,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO392,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO392,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+PROMO392,,,,,Free Product,AND,Per Tier,Prodcat 1,No,1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

@@ -1,0 +1,6 @@
+TestCaseID,Geo Tree ID,Tree Description
+geoTreeAssignment_SearchFieldname,GT_CSDCA,GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA
+geoTreeAssignment_SearchOperator,GT_CSDCA,GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA
+geoTreeAssignment_SearchCombination,GT_CSDCA,GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA
+geoTreeAssignment_Search_All_Filters,GT_CSDCA,GEO TREE - COUNTRY \ STATE \ DISTRICT \ CITY \ AREA
+geoTreeAssignment_ValidateBreadcrumbs,,

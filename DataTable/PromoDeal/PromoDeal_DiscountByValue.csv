@@ -1,0 +1,553 @@
+TestCseID,Type,Scheme Options,Discount Percentage Method,Buy Type,Promotion Type,Discount,Apply On,Level,Must,MRP
+PROMO002,Promo & Deal,For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO002,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO002,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO003,Promo & Deal,For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO003,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO003,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO004,Promo & Deal,For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO004,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO004,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO008,Promo & Deal,For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO008,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO008,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO009,Promo & Deal,For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO009,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO009,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO010,Promo & Deal,For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO010,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO010,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO014,Promo & Deal,Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO014,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO014,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO015,Promo & Deal,Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO015,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO015,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO019,Promo & Deal,Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO019,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO019,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO020,Promo & Deal,Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO020,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO020,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO030,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO030,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO030,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO031,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO031,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO031,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO034,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO034,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO034,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO035,Promo & Deal,Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO035,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO035,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO038,Promo & Deal,Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO038,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO038,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO039,Promo & Deal,Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO039,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO039,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO040,Promo & Deal,Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO040,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO040,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO043,Promo & Deal,Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO043,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO043,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO044,Promo & Deal,Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO044,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO044,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO045,Promo & Deal,Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO045,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO045,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO048,Promo & Deal,Combi Scheme,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO048,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO048,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO049,Promo & Deal,Combi Scheme,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO049,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO049,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO050,Promo & Deal,Combi Scheme,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO050,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO050,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO054,Promo & Deal,Combi Scheme,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO054,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO054,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO055,Promo & Deal,Combi Scheme,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO055,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO055,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO056,Promo & Deal,Combi Scheme,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO056,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO056,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO060,Promo & Deal,Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO060,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO060,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO061,Promo & Deal,Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO061,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO061,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO062,Promo & Deal,Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO062,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO062,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO066,Promo & Deal,Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO066,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO066,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO067,Promo & Deal,Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO067,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO067,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO068,Promo & Deal,Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO068,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO068,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO072,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO072,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO072,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO073,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO073,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO073,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO077,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO077,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO077,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO078,Promo & Deal,Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO078,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO078,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO084,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO084,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO084,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO085,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO085,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO085,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO088,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO088,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO088,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO089,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO089,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO089,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO092,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO092,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO092,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO093,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO093,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO093,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO094,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO094,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO094,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO097,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO097,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO097,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO098,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO098,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO098,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO099,Promo & Deal,Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO099,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO099,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO102,Promo & Deal,Scheme by TDR;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO102,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO102,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO103,Promo & Deal,Scheme by TDR;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO103,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO103,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO104,Promo & Deal,Scheme by TDR;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO104,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO104,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO108,Promo & Deal,Scheme by TDR;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO108,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO108,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO109,Promo & Deal,Scheme by TDR;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO109,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO109,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO110,Promo & Deal,Scheme by TDR;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO110,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO110,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO114,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO114,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO114,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO115,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO115,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO115,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO119,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO119,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO119,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO120,Promo & Deal,Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO120,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO120,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO126,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO126,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO126,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO127,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO127,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO127,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO128,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO128,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO128,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO131,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO131,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO131,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO132,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO132,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO132,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO133,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO133,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO133,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO136,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO136,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO136,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO137,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO137,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO137,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO140,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO140,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO140,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO141,Promo & Deal,Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO141,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO141,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO144,Promo & Deal,Scheme by TDR;Combi Scheme,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO144,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO144,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO145,Promo & Deal,Scheme by TDR;Combi Scheme,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO145,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO145,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO146,Promo & Deal,Scheme by TDR;Combi Scheme,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO146,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO146,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO150,Promo & Deal,Scheme by TDR;Combi Scheme,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO150,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO150,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO151,Promo & Deal,Scheme by TDR;Combi Scheme,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO151,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO151,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO152,Promo & Deal,Scheme by TDR;Combi Scheme,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO152,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO152,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO156,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO156,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO156,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO157,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO157,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO157,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO158,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO158,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO158,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO162,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO162,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO162,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO163,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO163,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO163,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO164,Promo & Deal,Scheme by TDR;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO164,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO164,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO168,Promo & Deal,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO168,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO168,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO169,Promo & Deal,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO169,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO169,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO173,Promo & Deal,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO173,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO173,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO174,Promo & Deal,Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO174,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO174,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO180,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO180,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO180,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO181,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO181,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO181,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO184,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO184,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO184,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO185,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO185,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO185,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO188,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO188,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO188,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO189,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO189,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO189,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO190,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO190,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO190,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO193,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,
+PROMO193,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,
+PROMO193,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,
+PROMO194,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,
+PROMO194,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,
+PROMO194,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,
+PROMO195,Promo & Deal,Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,
+PROMO195,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,
+PROMO195,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,
+PROMO198,Promo & Deal,Scheme by MRP;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO198,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO198,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO199,Promo & Deal,Scheme by MRP;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO199,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO199,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO200,Promo & Deal,Scheme by MRP;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO200,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO200,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO204,Promo & Deal,Scheme by MRP;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO204,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO204,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO205,Promo & Deal,Scheme by MRP;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO205,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO205,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO206,Promo & Deal,Scheme by MRP;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO206,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO206,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO210,Promo & Deal,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO210,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO210,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO211,Promo & Deal,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO211,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO211,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO215,Promo & Deal,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO215,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO215,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO216,Promo & Deal,Scheme by MRP;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO216,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO216,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO226,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO226,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO226,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO227,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO227,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO227,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO230,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO230,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO230,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO231,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO231,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO231,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO234,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO234,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO234,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO235,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO235,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO235,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO236,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO236,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO236,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO239,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO239,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO239,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO240,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO240,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO240,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO241,Promo & Deal,Scheme by MRP;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO241,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO241,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO244,Promo & Deal,Scheme by MRP;Combi Scheme,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO244,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO244,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO245,Promo & Deal,Scheme by MRP;Combi Scheme,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO245,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO245,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO246,Promo & Deal,Scheme by MRP;Combi Scheme,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO246,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO246,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO250,Promo & Deal,Scheme by MRP;Combi Scheme,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO250,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO250,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO251,Promo & Deal,Scheme by MRP;Combi Scheme,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO251,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO251,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO252,Promo & Deal,Scheme by MRP;Combi Scheme,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO252,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO252,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO256,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO256,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO256,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO257,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO257,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO257,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO258,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO258,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO258,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO262,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO262,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO262,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO263,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO263,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO263,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO264,Promo & Deal,Scheme by MRP;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO264,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO264,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO268,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO268,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO268,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO269,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO269,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO269,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO273,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO273,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO273,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO274,Promo & Deal,Scheme by MRP;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO274,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO274,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO280,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO280,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO280,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO281,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO281,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO281,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO284,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO284,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO284,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO285,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO285,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO285,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO288,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO288,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO288,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO289,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO289,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO289,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO290,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO290,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO290,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO293,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO293,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO293,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO294,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO294,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO294,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO295,Promo & Deal,Scheme by MRP;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO295,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO295,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO298,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO298,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO298,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO299,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO299,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO299,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO300,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO300,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO300,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO304,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO304,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO304,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO305,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO305,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO305,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO306,Promo & Deal,Scheme by MRP;Scheme by TDR;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO306,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO306,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO310,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO310,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO310,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO311,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO311,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO311,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO315,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO315,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO315,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO316,Promo & Deal,Scheme by MRP;Scheme by TDR;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO316,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO316,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO322,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO322,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO322,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO323,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO323,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO323,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO324,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO324,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO324,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO327,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO327,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO327,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO328,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO328,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO328,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO329,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO329,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO329,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO332,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO332,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO332,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO333,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO333,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO333,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO336,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO336,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO336,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO337,Promo & Deal,Scheme by MRP;Scheme by TDR;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO337,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO337,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO340,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO340,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO340,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO341,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO341,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO341,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO342,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO342,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO342,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO346,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO346,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO346,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO347,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO347,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO347,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO348,Promo & Deal,Scheme by MRP;Scheme by TDR;Combi Scheme,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO348,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO348,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO352,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO352,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO352,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO353,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO353,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO353,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO354,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO354,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO354,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO358,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO358,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO358,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO359,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO359,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO359,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO360,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO360,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO360,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO364,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO364,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO364,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO365,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO365,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO365,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO369,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO369,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO369,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO370,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Pro-rata;For Every,Non Accumulative,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO370,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO370,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO376,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO376,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO376,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO377,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO377,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO377,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO380,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO380,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO380,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO381,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;Pro-rata;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO381,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO381,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO384,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO384,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO384,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO385,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO385,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO385,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO386,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Quantity,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO386,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO386,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1
+PROMO389,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Tier,Prodcat 1,No,1
+PROMO389,,,,,Discount by Value,30.5,Per Tier,Prodcat 1,No,1
+PROMO389,,,,,Discount by Value,50.5,Per Tier,Prodcat 1,No,1
+PROMO390,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per UOM,Prodcat 1,No,1
+PROMO390,,,,,Discount by Value,30.5,Per UOM,Prodcat 1,No,1
+PROMO390,,,,,Discount by Value,50.5,Per UOM,Prodcat 1,No,1
+PROMO391,Promo & Deal,Scheme by MRP;Scheme by TDR;Scheme by Range;Quantity Purchase Scheme;For Every,,Amount,Discount by Value,10.5,Per Product,Prodcat 1,No,1
+PROMO391,,,,,Discount by Value,30.5,Per Product,Prodcat 1,No,1
+PROMO391,,,,,Discount by Value,50.5,Per Product,Prodcat 1,No,1

@@ -1,0 +1,55 @@
+TestCseID,Type,Discount Percentage Method,Buy Type,Base Discount,Dynamic Scheme,Buy Multiplier,Disc Multiplier,Discount %,Product Assignment Setting,Level
+DYNAMIC001,Dynamic Scheme,Non Accumulative,Amount,2,Average Sales,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC001,,,,,Average Sales,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC001,,,,,Average Sales,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC002,Dynamic Scheme,Non Accumulative,Quantity,2,Average Sales,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC002,,,,,Average Sales,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC002,,,,,Average Sales,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC003,Dynamic Scheme,Non Accumulative,Amount,2,Average Invoice Value,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC003,,,,,Average Invoice Value,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC003,,,,,Average Invoice Value,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC004,Dynamic Scheme,Non Accumulative,Quantity,2,Average Invoice Value,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC004,,,,,Average Invoice Value,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC004,,,,,Average Invoice Value,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC005,Dynamic Scheme,,MSL,2,MSL %,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC005,,,,,MSL %,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC005,,,,,MSL %,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC006,Dynamic Scheme,Non Accumulative,Amount,2,Zero Average Sales,100,1.3,2.6,All Product,Prodcat 1
+DYNAMIC006,,,,,Zero Average Sales,200,3.3,6.6,All Product,Prodcat 1
+DYNAMIC006,,,,,Zero Average Sales,300,5.3,10.6,All Product,Prodcat 1
+DYNAMIC007,Dynamic Scheme,Non Accumulative,Quantity,2,Zero Average Sales,10,1.3,2.6,All Product,Prodcat 1
+DYNAMIC007,,,,,Zero Average Sales,20,3.3,6.6,All Product,Prodcat 1
+DYNAMIC007,,,,,Zero Average Sales,30,5.3,10.6,All Product,Prodcat 1
+DYNAMIC008,Dynamic Scheme,Non Accumulative,Amount,2,Zero Average Invoice Value,100,1.3,2.6,All Product,Prodcat 1
+DYNAMIC008,,,,,Zero Average Invoice Value,200,3.3,6.6,All Product,Prodcat 1
+DYNAMIC008,,,,,Zero Average Invoice Value,300,5.3,10.6,All Product,Prodcat 1
+DYNAMIC009,Dynamic Scheme,Non Accumulative,Quantity,2,Zero Average Invoice Value,10,1.3,2.6,All Product,Prodcat 1
+DYNAMIC009,,,,,Zero Average Invoice Value,20,3.3,6.6,All Product,Prodcat 1
+DYNAMIC009,,,,,Zero Average Invoice Value,30,5.3,10.6,All Product,Prodcat 1
+DYNAMIC010,Dynamic Scheme,,MSL,2,Zero MSL %,20,1.3,2.6,All Product,Prodcat 1
+DYNAMIC010,,,,,Zero MSL %,40,3.3,6.6,All Product,Prodcat 1
+DYNAMIC010,,,,,Zero MSL %,60,5.3,10.6,All Product,Prodcat 1
+DYNAMIC011,Dynamic Scheme,Accumulative,Amount,2,Average Sales,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC011,,,,,Average Sales,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC011,,,,,Average Sales,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC012,Dynamic Scheme,Accumulative,Quantity,2,Average Sales,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC012,,,,,Average Sales,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC012,,,,,Average Sales,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC013,Dynamic Scheme,Accumulative,Amount,2,Average Invoice Value,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC013,,,,,Average Invoice Value,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC013,,,,,Average Invoice Value,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC014,Dynamic Scheme,Accumulative,Quantity,2,Average Invoice Value,1,1.3,2.6,All Product,Prodcat 1
+DYNAMIC014,,,,,Average Invoice Value,3,3.3,6.6,All Product,Prodcat 1
+DYNAMIC014,,,,,Average Invoice Value,5,5.3,10.6,All Product,Prodcat 1
+DYNAMIC015,Dynamic Scheme,Accumulative,Amount,2,Zero Average Sales,100,1.3,2.6,All Product,Prodcat 1
+DYNAMIC015,,,,,Zero Average Sales,200,3.3,6.6,All Product,Prodcat 1
+DYNAMIC015,,,,,Zero Average Sales,300,5.3,10.6,All Product,Prodcat 1
+DYNAMIC016,Dynamic Scheme,Accumulative,Quantity,2,Zero Average Sales,10,1.3,2.6,All Product,Prodcat 1
+DYNAMIC016,,,,,Zero Average Sales,20,3.3,6.6,All Product,Prodcat 1
+DYNAMIC016,,,,,Zero Average Sales,30,5.3,10.6,All Product,Prodcat 1
+DYNAMIC017,Dynamic Scheme,Accumulative,Amount,2,Zero Average Invoice Value,100,1.3,2.6,All Product,Prodcat 1
+DYNAMIC017,,,,,Zero Average Invoice Value,200,3.3,6.6,All Product,Prodcat 1
+DYNAMIC017,,,,,Zero Average Invoice Value,300,5.3,10.6,All Product,Prodcat 1
+DYNAMIC018,Dynamic Scheme,Accumulative,Quantity,2,Zero Average Invoice Value,10,1.3,2.6,All Product,Prodcat 1
+DYNAMIC018,,,,,Zero Average Invoice Value,20,3.3,6.6,All Product,Prodcat 1
+DYNAMIC018,,,,,Zero Average Invoice Value,30,5.3,10.6,All Product,Prodcat 1

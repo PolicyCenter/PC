@@ -1,0 +1,12 @@
+Test Case Id,Tax Definition Type,Type,Nature Of Supply,Tax Rate Code,Tax Code,Tab Name
+taxstructure_AddTaxStructure_GoodsType,IGST,G - Goods,Inter State,12,,
+taxstructure_AddTaxStructure_ServiceType,CGST,S - Service,Intra State,5,,
+taxstructure_Verify_ErrorMessage,IGST,G - Goods,Inter State,,TC0000000004,
+taxstructure_Verify_AlertMessage,IGST,G - Goods,Inter State,,TC0000000004,
+taxstructure_AddDuplicate,IGST,S - Service,Inter State,12,,
+taxstructure_EditTaxStructure_SACAssignment,CGST,,,10,,
+taxstructure_EditTaxStructure_HSNAssignment,IGST,,,10,,
+taxstructure_DeleteTaxStructure_HSNAssignmentTab,,,,,,HSN Assignment
+taxstructure_AssignHSN_TaxStructure,,,,,,HSN Assignment
+taxstructure_AssignSAC_TaxStructure,,,,,,SAC Assignment
+taxstructure_DeleteTaxStructure_SACAssignmentTab,,,,,,SAC Assignment

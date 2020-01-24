@@ -1,0 +1,13 @@
+TestCaseID,Tax Definition Type,Level,Tax Description,Tax Rate,Calculated on 1,Type,Nature of Supply
+addTaxDefination,CGST,1,,,,,
+addTaxDefination,SGST,2,,,,,
+addTaxDefination,IGST,3,,,,,
+addTaxDefination,CESS,4,,,,,
+addTaxRate,CGST,,CGST 5,5,GROSS,,
+addTaxRate,SGST,,SGST 5,5,GROSS,,
+addTaxRate,IGST,,IGST 5,5,GROSS,,
+addTaxRate,CESS,,CESS 1,1,GROSS,,
+addTaxStructure,IGST,,,,,G - Goods,Inter State
+addTaxStructure,CESS,,,,,G - Goods,Intra State
+addTaxStructure,CGST,,,,,,
+addTaxStructure,SGST,,,,,,
